@@ -4,8 +4,14 @@ CLI tool for downloading all the image files from a particular URL.
 
 ## Setup
 
+Setup virtual environment:
+
 `python -m venv venv`
+
 `source venv/bin/activate`
+
+Install requirements:
+
 `pip install -r requirements.txt`
 
 ## Usage
